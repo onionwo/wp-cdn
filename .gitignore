@@ -1,6 +1,7 @@
 *.php
 *.icloud
 *.xml
+*.json
 .htaccess
 wp-content/cache/
 wp-content/upgrade/
